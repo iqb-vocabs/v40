@@ -1,0 +1,49 @@
+{
+    "id": "2004Chemie",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Bildungsstandards Chemie Sek 1 aud dem Jahr 2004"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v40",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "k1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Bildungsstandards für die Kompetenzbereiche des Fachs Chemie"
+          }
+        ],
+        "filenameSource": "k1_Bildungsstandards_Kompetenzbereiche.csv",
+        "filenameTarget": "k1_Bildungsstandards_Kompetenzbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Mit dem Erwerb des Mittleren Schulabschlusses verfügen die Schülerinnen und Schüler über naturwissenschaftliche Kompetenzen im Allgemeinen sowie chemische Kompetenzen im Besonderen.\n\nKompetenzen sind nach Weinert (2001) „die bei Individuen verfügbaren oder durch sie erlernbaren kognitiven Fähigkeiten und Fertigkeiten, um bestimmte Probleme zu lösen, sowie die damit verbundenen motivationalen, volitionalen und sozialen Bereitschaften und Fähigkeiten, um die Problemlösungen in variablen Situationen erfolgreich und verantwortungsvoll nutzen zu können“. Die Kompetenzen, die eine naturwissenschaftliche Grundbildung ausmachen, bieten Anknüpfungspunkte für fachübergreifendes und fächerverbindendes Arbeiten. Sie werden ohne Berücksichtigung ihrer Vernetzung vier Bereichen zugeordnet und für das Fach Chemie spezifiziert:\"\""
+          }
+        ]
+      },
+      {
+        "id": "a1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Anforderungsbereiche"
+          }
+        ],
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "Fachspezifische Beschreibung der Anforderungsbereiche"
+          }
+        ]
+      }
+    ]
+  }

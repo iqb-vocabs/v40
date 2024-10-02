@@ -1,0 +1,23 @@
+{
+  "name": "v40",
+  "version": "0.1.0",
+  "description": "Bildungsstandards Chemie Sek 1 2004",
+  "main": "index.js",
+  "scripts": {
+    "run_id": "addidcsv csv",
+    "run_ttl": "csv2ttl csv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/v40.git"
+  },
+  "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/v40/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/v40#readme",
+  "dependencies": {
+    "@iqb/csv2ttl": "^0.7.9"
+  }
+}
