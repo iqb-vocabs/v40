@@ -3,7 +3,7 @@
     "title": [
       {
         "lang": "de",
-        "value": "Bildungsstandards im Fach Chemie MSA 2004"
+        "value": "Bildungsstandards Chemie Sek I 2004"
       }
     ],
     "csv_delimiter": ",",
@@ -16,7 +16,7 @@
         "title": [
           {
             "lang": "de",
-            "value": "Standards für die Kompetenzbereiche des Faches Chemie"
+            "value": "Standards (Kompetenzen)"
           }
         ],
         "filenameSource": "k1_Bildungsstandards_Kompetenzbereiche.csv",
@@ -33,7 +33,7 @@
         "title": [
           {
             "lang": "de",
-            "value": "Fachspezifische Beschreibung der Anforderungsbereiche"
+            "value": "Anforderungsbereiche"
           }
         ],
         "filenameSource": "a1_Anforderungsbereiche.csv",
@@ -41,7 +41,7 @@
         "description": [
           {
             "lang": "de",
-            "value": "Fachspezifische Beschreibung der Anforderungsbereiche"
+            "value": "\"\"Da noch keine empirisch abgesicherten Kompetenzstufenmodelle vorliegen, wird zunächst zur Einschätzung der in den Aufgabenbeispielen gestellten Anforderungen auf drei Bereiche zurückgegriffen, die sich in ihrer Beschreibung an den Einheitlichen Prüfungsanforderungen in der Abiturprüfung (EPA) orientieren. Dabei gilt, dass die Anforderungsbereiche nicht Ausprägungen oder Niveaustufen einer Kompetenz sind. Es handelt sich vielmehr um Merkmale von Aufgaben, die verschiedene Schwierigkeitsgrade innerhalb ein und derselben Kompetenz abbilden können. Die nachfolgenden Formulierungen zeigen deshalb zunächst charakterisierende Kriterien zur Einordnung in einen der Anforderungsbereiche auf.\"\""
           }
         ]
       }
