@@ -1,7 +1,7 @@
 {
   "name": "v40",
   "version": "0.1.0",
-  "description": "Bildungsstandards Chemie Sek I 2004",
+  "description": "Bildungsstandards Chemie MSA 2004",
   "main": "index.js",
   "scripts": {
     "run_id": "addidcsv csv",
